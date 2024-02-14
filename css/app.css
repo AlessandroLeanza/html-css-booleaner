@@ -33,3 +33,23 @@ h1 {
 .div span {
     opacity: 0.5;
 }
+
+.immagini-main img {
+    height: 230px;
+}
+
+.descrizione-immagini {
+    font-size: 8px;
+}
+
+.giallo {
+    background-color: yellow;
+}
+
+.testo {
+    font-size: 12px
+}
+
+.elenco-non-ordinato {
+    font-size: 12px
+}
